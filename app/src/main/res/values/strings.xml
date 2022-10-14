@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">HammerFood</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="city">Москва</string>
+    <string name="category1">Пицца</string>
+    <string name="category2">Комбо</string>
+    <string name="category3">Десерты</string>
+    <string name="category4">Напитки</string>
+
+    <string name="bottom_nav1">Меню</string>
+    <string name="bottom_nav2">Профиль</string>
+    <string name="bottom_nav3">Коризна</string>
 </resources>

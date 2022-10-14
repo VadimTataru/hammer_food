@@ -63,7 +63,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Ижевск"
+                    android:text="@string/city"
                     android:textSize="22sp"
                     android:textColor="@color/black"/>
 
@@ -121,29 +121,35 @@
                             android:layout_width="110dp"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="8dp"
-                            android:text="Пицца"
+                            android:textColor="@color/dark_pink"
+                            android:text="@string/category1"
                             android:textSize="12sp" />
 
                         <com.google.android.material.button.MaterialButton
                             android:layout_width="110dp"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="8dp"
-                            android:text="Комбо"
+                            android:text="@string/category2"
+                            android:backgroundTint="@color/white"
+                            android:textColor="@color/cardview_dark_background"
                             android:textSize="12sp" />
 
                         <com.google.android.material.button.MaterialButton
                             android:layout_width="110dp"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="8dp"
-                            android:text="Десерты"
+                            android:text="@string/category3"
+                            android:backgroundTint="@color/white"
+                            android:textColor="@color/cardview_dark_background"
                             android:textSize="12sp" />
 
                         <com.google.android.material.button.MaterialButton
-
                             android:layout_width="110dp"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="8dp"
-                            android:text="Напитки"
+                            android:text="@string/category4"
+                            android:backgroundTint="@color/white"
+                            android:textColor="@color/cardview_dark_background"
                             android:textSize="12sp" />
                     </LinearLayout>
                 </HorizontalScrollView>
