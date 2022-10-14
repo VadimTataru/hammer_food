@@ -1,0 +1,14 @@
+{
+  "hits": [
+    {
+      "recipe": {
+        "label": "string",
+        "image": "string",
+        "source": "string",
+        "ingredientLines": [
+          "string"
+        ]
+      }
+    }
+  ]
+}

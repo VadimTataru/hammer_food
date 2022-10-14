@@ -10,9 +10,4 @@
         android:name="com.fox.hammerfood.presentation.fragments.MainFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_main" />
-    <fragment
-        android:id="@+id/blankFragment2"
-        android:name="com.fox.hammerfood.presentation.fragments.BlankFragment"
-        android:label="fragment_blank"
-        tools:layout="@layout/fragment_blank" />
 </navigation>

@@ -1,0 +1,3 @@
+app_id: 3cd1fb37
+app_key: fdac174c2fefef882333b300aad3266b
+query: pizza
